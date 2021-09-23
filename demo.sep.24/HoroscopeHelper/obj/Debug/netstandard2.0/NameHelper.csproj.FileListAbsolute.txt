@@ -1,0 +1,9 @@
+C:\Users\Simon\source\repos\HoroscopeHelper\bin\Debug\netstandard2.0\NameHelper.deps.json
+C:\Users\Simon\source\repos\HoroscopeHelper\bin\Debug\netstandard2.0\NameHelper.dll
+C:\Users\Simon\source\repos\HoroscopeHelper\bin\Debug\netstandard2.0\NameHelper.pdb
+C:\Users\Simon\source\repos\HoroscopeHelper\obj\Debug\netstandard2.0\NameHelper.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\HoroscopeHelper\obj\Debug\netstandard2.0\NameHelper.AssemblyInfoInputs.cache
+C:\Users\Simon\source\repos\HoroscopeHelper\obj\Debug\netstandard2.0\NameHelper.AssemblyInfo.cs
+C:\Users\Simon\source\repos\HoroscopeHelper\obj\Debug\netstandard2.0\NameHelper.csproj.CoreCompileInputs.cache
+C:\Users\Simon\source\repos\HoroscopeHelper\obj\Debug\netstandard2.0\NameHelper.dll
+C:\Users\Simon\source\repos\HoroscopeHelper\obj\Debug\netstandard2.0\NameHelper.pdb

@@ -1,0 +1,13 @@
+C:\Users\Simon\source\repos\Horoscope\obj\Debug\Hello.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\Horoscope\obj\Debug\Hello.csproj.GenerateResource.cache
+C:\Users\Simon\source\repos\Horoscope\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Users\Simon\source\repos\Horoscope\obj\Debug\Hello.FormHello.resources
+C:\Users\Simon\source\repos\Horoscope\bin\Debug\Hello.exe.config
+C:\Users\Simon\source\repos\Horoscope\bin\Debug\Hello.exe
+C:\Users\Simon\source\repos\Horoscope\bin\Debug\Hello.pdb
+C:\Users\Simon\source\repos\Horoscope\obj\Debug\Hello.Properties.Resources.resources
+C:\Users\Simon\source\repos\Horoscope\obj\Debug\Hello.exe
+C:\Users\Simon\source\repos\Horoscope\obj\Debug\Hello.pdb
+C:\Users\Simon\source\repos\Horoscope\bin\Debug\NameHelper.dll
+C:\Users\Simon\source\repos\Horoscope\bin\Debug\NameHelper.pdb
+C:\Users\Simon\source\repos\Horoscope\obj\Debug\Hello.csproj.CopyComplete
