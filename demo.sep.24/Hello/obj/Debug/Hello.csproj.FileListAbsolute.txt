@@ -11,3 +11,16 @@ C:\Users\Simon\source\repos\Horoscope\obj\Debug\Hello.pdb
 C:\Users\Simon\source\repos\Horoscope\bin\Debug\NameHelper.dll
 C:\Users\Simon\source\repos\Horoscope\bin\Debug\NameHelper.pdb
 C:\Users\Simon\source\repos\Horoscope\obj\Debug\Hello.csproj.CopyComplete
+D:\GIT\demo-repos\demo.sep.24\Hello\bin\Debug\Hello.exe.config
+D:\GIT\demo-repos\demo.sep.24\Hello\bin\Debug\Hello.exe
+D:\GIT\demo-repos\demo.sep.24\Hello\bin\Debug\Hello.pdb
+D:\GIT\demo-repos\demo.sep.24\Hello\bin\Debug\NameHelper.dll
+D:\GIT\demo-repos\demo.sep.24\Hello\bin\Debug\NameHelper.pdb
+D:\GIT\demo-repos\demo.sep.24\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
+D:\GIT\demo-repos\demo.sep.24\Hello\obj\Debug\Hello.FormHello.resources
+D:\GIT\demo-repos\demo.sep.24\Hello\obj\Debug\Hello.Properties.Resources.resources
+D:\GIT\demo-repos\demo.sep.24\Hello\obj\Debug\Hello.csproj.GenerateResource.cache
+D:\GIT\demo-repos\demo.sep.24\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+D:\GIT\demo-repos\demo.sep.24\Hello\obj\Debug\Hello.csproj.CopyComplete
+D:\GIT\demo-repos\demo.sep.24\Hello\obj\Debug\Hello.exe
+D:\GIT\demo-repos\demo.sep.24\Hello\obj\Debug\Hello.pdb

@@ -7,3 +7,12 @@ C:\Users\Simon\source\repos\HoroscopeHelper\obj\Debug\netstandard2.0\NameHelper.
 C:\Users\Simon\source\repos\HoroscopeHelper\obj\Debug\netstandard2.0\NameHelper.csproj.CoreCompileInputs.cache
 C:\Users\Simon\source\repos\HoroscopeHelper\obj\Debug\netstandard2.0\NameHelper.dll
 C:\Users\Simon\source\repos\HoroscopeHelper\obj\Debug\netstandard2.0\NameHelper.pdb
+D:\GIT\demo-repos\demo.sep.24\NameHelper\bin\Debug\netstandard2.0\NameHelper.deps.json
+D:\GIT\demo-repos\demo.sep.24\NameHelper\bin\Debug\netstandard2.0\NameHelper.dll
+D:\GIT\demo-repos\demo.sep.24\NameHelper\bin\Debug\netstandard2.0\NameHelper.pdb
+D:\GIT\demo-repos\demo.sep.24\NameHelper\obj\Debug\netstandard2.0\NameHelper.csprojAssemblyReference.cache
+D:\GIT\demo-repos\demo.sep.24\NameHelper\obj\Debug\netstandard2.0\NameHelper.AssemblyInfoInputs.cache
+D:\GIT\demo-repos\demo.sep.24\NameHelper\obj\Debug\netstandard2.0\NameHelper.AssemblyInfo.cs
+D:\GIT\demo-repos\demo.sep.24\NameHelper\obj\Debug\netstandard2.0\NameHelper.csproj.CoreCompileInputs.cache
+D:\GIT\demo-repos\demo.sep.24\NameHelper\obj\Debug\netstandard2.0\NameHelper.dll
+D:\GIT\demo-repos\demo.sep.24\NameHelper\obj\Debug\netstandard2.0\NameHelper.pdb

@@ -83,7 +83,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\HoroscopeHelper\NameHelper.csproj">
+    <ProjectReference Include="..\NameHelper\NameHelper.csproj">
       <Project>{d8da727f-d37d-4215-aac7-89b66f38f81e}</Project>
       <Name>NameHelper</Name>
     </ProjectReference>

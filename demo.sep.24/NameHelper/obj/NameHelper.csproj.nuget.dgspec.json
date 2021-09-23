@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Simon\\source\\repos\\HoroscopeHelper\\NameHelper.csproj": {}
+    "D:\\GIT\\demo-repos\\demo.sep.24\\NameHelper\\NameHelper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Simon\\source\\repos\\HoroscopeHelper\\NameHelper.csproj": {
+    "D:\\GIT\\demo-repos\\demo.sep.24\\NameHelper\\NameHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Simon\\source\\repos\\HoroscopeHelper\\NameHelper.csproj",
+        "projectUniqueName": "D:\\GIT\\demo-repos\\demo.sep.24\\NameHelper\\NameHelper.csproj",
         "projectName": "NameHelper",
-        "projectPath": "C:\\Users\\Simon\\source\\repos\\HoroscopeHelper\\NameHelper.csproj",
+        "projectPath": "D:\\GIT\\demo-repos\\demo.sep.24\\NameHelper\\NameHelper.csproj",
         "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Simon\\source\\repos\\HoroscopeHelper\\obj\\",
+        "outputPath": "D:\\GIT\\demo-repos\\demo.sep.24\\NameHelper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Simon\\AppData\\Roaming\\NuGet\\NuGet.Config",

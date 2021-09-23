@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello", "Hello.csproj", "{E266733F-7FA9-4451-87DD-CE0BD475C9A1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NameHelper", "..\HoroscopeHelper\NameHelper.csproj", "{D8DA727F-D37D-4215-AAC7-89B66F38F81E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NameHelper", "..\NameHelper\NameHelper.csproj", "{D8DA727F-D37D-4215-AAC7-89B66F38F81E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
